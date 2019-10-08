@@ -1,0 +1,6 @@
+"npm init -y"
+npm i express bcryptjs jsonwebtoken config express-validator mongoose
+npm i -D nodemon concurrently
+
+-- Create client side 
+npx create-react-app client
