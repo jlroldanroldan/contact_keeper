@@ -4,3 +4,4 @@ npm i -D nodemon concurrently
 
 -- Create client side 
 npx create-react-app client
+npm i axios react-router-dom uuid react-transition-group
